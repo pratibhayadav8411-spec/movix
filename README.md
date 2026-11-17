@@ -1,2 +1,1 @@
-# movix
-movie search website using HTML , CSS ,JavaScript
+# movie_search
