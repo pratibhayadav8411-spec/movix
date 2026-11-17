@@ -25,12 +25,16 @@ The project is built using HTML, CSS and JavaScript, with a simple and user-frie
 
 📂 Project Structure
 
-MovieFlex/
+Movix/
 │
 ├── index.html
+
 ├── main.css
+
 ├── script.js
+
 ├── medium-cover.jpg
+
 └── README.md
 
 🚀 Getting Started
